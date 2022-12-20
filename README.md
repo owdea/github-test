@@ -1,3 +1,5 @@
 # github-test
 
-# Git add, commit and push done
+Git add, commit( -m "") and push, state
+
+Git pull, diff
